@@ -6,4 +6,4 @@ Clone the repository. Enter the correct project folder. Then enter `sudo -E go r
 
 ## Demo
 * Pinging cloudfront.com
-![ping_cloud_front]("https://github.com/Arthur-S-Huang/CloudFlare-ping/blob/master/ping_examples/ping_cf.png")
+![ping_cloud_front](ping_examples/ping_cf.png)
